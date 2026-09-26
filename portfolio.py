@@ -7,7 +7,7 @@ import datetime
 import re
 
 st.set_page_config(
-    page_title="Aariz Bin Azmat | Software & Data Portfolio",
+    page_title="Aariz Bin Azmat | Portfolio",
     page_icon="🚀",
     layout="wide",
     initial_sidebar_state="expanded"
